@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reinventing the Wheel"
+  short_description: "Research whether an idea is worth building"
+  default_prompt: "Use $reinventing-the-wheel to research whether this idea already exists and whether there is a credible angle to build."
