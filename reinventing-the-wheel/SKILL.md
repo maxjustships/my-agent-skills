@@ -37,12 +37,12 @@ If the request is already concrete, start searching immediately.
 
 ### 2. Run a fast first pass
 
-Survey representative strong examples rather than trying to be exhaustive.
+Survey representative strong examples rather than trying to be exhaustive. Limit your initial research to 3-4 web searches to avoid getting stuck in research loops. Focus on identifying the top 3 competitors.
 
 Use a balanced mix of:
 - product sites and docs
 - GitHub repos and issues
-- public reviews, Reddit, forums, Hacker News, and social discussion
+- public reviews, Reddit, forums, Hacker News, and social discussion (use `google_web_search` with site operators like `site:reddit.com` or `site:news.ycombinator.com` to find authentic user complaints)
 - pricing pages, changelogs, launch posts, and adjacent tools when relevant
 
 Prefer linked evidence and concise claims over unsupported summaries.
@@ -65,7 +65,11 @@ Read [rubric-and-memo.md](references/rubric-and-memo.md) and score the idea on t
 
 Use the rubric to guide judgment, not to replace judgment. If the pattern is mixed, explain why the recommendation still makes sense.
 
-### 5. Recommend a direction
+### 5. Determine the "Why Now"
+
+Identify why this idea is relevant right now. Look for a recent technology shift, a new API release, an incumbent's misstep (like a controversial pricing change), or a newly discovered underserved niche. If there is no clear "why now," note that explicitly.
+
+### 6. Recommend a direction
 
 Choose exactly one recommendation:
 - `build`
@@ -78,7 +82,7 @@ Interpret `go vertical` as targeting a narrower industry, workflow, or audience.
 
 Before recommending `drop`, always propose at least one contrarian angle. If the angle looks weak, say so explicitly and label it low-confidence.
 
-### 6. Escalate when needed
+### 7. Escalate when needed
 
 Default to a fast first pass. If the first pass looks promising or ambiguous, offer a deeper follow-up focused on:
 - weakness mining

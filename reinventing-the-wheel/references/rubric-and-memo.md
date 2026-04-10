@@ -12,12 +12,12 @@ Interpret the numbers loosely:
 - `5`: strongly favorable for a new entrant
 
 Dimensions:
-- `market saturation`: how crowded the category is with credible alternatives
-- `solution quality`: how strong the current options appear in product quality, UX, completeness, and trust
-- `user pain`: how much unresolved pain, dissatisfaction, or demand is visible
-- `differentiation headroom`: how much room exists to win on UX, quality, scope, speed, cost, workflow fit, or positioning
-- `distribution difficulty`: how hard adoption appears because of incumbency, SEO, switching costs, or buyer behavior
-- `build leverage`: how much leverage the idea creates for builders, teams, or businesses even if the market is crowded
+- `market saturation`: how crowded the category is with credible alternatives (1 = Multiple dominant, well-funded incumbents; 5 = Only fragmented, unmaintained open-source scripts)
+- `solution quality`: how strong the current options appear in product quality, UX, completeness, and trust (1 = Existing tools are polished, comprehensive, and loved; 5 = Existing tools are clunky, outdated, and universally hated)
+- `user pain`: how much unresolved pain, dissatisfaction, or demand is visible (1 = "It works perfectly, it's just a bit expensive"; 5 = "Every existing tool crashes constantly and breaks critical workflows")
+- `differentiation headroom`: how much room exists to win on UX, quality, scope, speed, cost, workflow fit, or positioning (1 = Features and pricing are fully commoditized; 5 = A 10x improvement is obvious and technically feasible)
+- `distribution difficulty`: how hard adoption appears because of incumbency, SEO, switching costs, or buyer behavior (1 = High switching costs and deeply entrenched incumbents; 5 = Virality potential or an untapped acquisition channel)
+- `build leverage`: how much leverage the idea creates for builders, teams, or businesses even if the market is crowded (1 = A pure nice-to-have distraction; 5 = Unblocks critical capabilities or revenue immediately)
 
 Use the scores as the main evidence surface. Do not apply a rigid formula mechanically; explain any mixed cases.
 
